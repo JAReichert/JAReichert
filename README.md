@@ -1,7 +1,7 @@
 ##  Hello, My name is Jason! ##
 
-- :computer: I'm currently learning full stack web development at [DigitalCrafts Software Engineering Immersive Program](https://www.digitalcrafts.com)
-- :seedling: I just wrapped up my first full-stack project with my partner, the uber-talented [Ciara Cloud](https://github.com/ciaracloud).  To see how we did, check our work out [here](https://github.com/JAReichert/vacayBuddy/tree/main/VacayBuddy)!
+- :computer: I'm currently employed at [Advance Solutions](https://www.advancesolutions.com/)
+- :seedling: I just graduated from [DigitalCrafts Software Engineering Immersive Program](https://www.digitalcrafts.com) and I am a TA for the [DigitalCrafts Part-time Web Development program](https://www.digitalcrafts.com)
 - :mailbox: How to reach me: 
 [![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jason-reichert-03b44b230/) and jar091010@gmail.com
 ---

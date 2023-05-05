@@ -1,7 +1,7 @@
 ##  Hello, My name is Jason! ##
 
-- :computer: I'm currently employed at [Advance Solutions](https://www.advancesolutions.com/)
-- :seedling: I just graduated from [DigitalCrafts Software Engineering Immersive Program](https://www.digitalcrafts.com) and I am a TA for the [DigitalCrafts Part-time Web Development program](https://www.digitalcrafts.com)
+- :computer: I am a technical consultant at [Advance Solutions](https://www.advancesolutions.com/)
+- :seedling: I transitioned from a career in healthcare to software engineering thanks to the excellent [DigitalCrafts Software Engineering Immersive Program](https://www.digitalcrafts.com).
 - :mailbox: How to reach me: 
 [![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jason-reichert-03b44b230/) and jar091010@gmail.com
 ---
